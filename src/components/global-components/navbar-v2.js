@@ -25,7 +25,7 @@ class Navbar extends Component {
                         <img
                           src={publicUrl + "assets/img/logo.png"}
                           alt="Logo"
-                          width="80%"
+                          width="70%"
                         />
                       </Link>
                     </div>
